@@ -1,16 +1,10 @@
-<style>
-.info
-{
-font-size:15px
-}
-</style>
 <h1> Programing Fundamentals with Python - May 2025</h1>
-<div class="info">
-    SoftUni Exercises and Labs 
+<div class = "info" style="font-size:15px">
+    SoftUni Exercises, Labs and Projects 
     - Programing Fundamentals - May 2025<br>
 </div>
 <h2>Course Topics</h2>
-<div class = "info">
+<div class = "info" style="font-size:15px">
     <ul>
         <li>Language Comparison</li>
         <li>Basic Syntax, Conditional Statements and Loops</li>
@@ -32,9 +26,10 @@ font-size:15px
     </ul>
 </div>
 <h2>Projects</h2>
-<div class = "info">
-In this course I create this projects:
-<ul>
-</ul>
+<div class = "info" style="font-size:16px">
+    In this course I create this projects:
+    <ul>
+        <li>➡️<a href="https://github.com/programMiro24/Text-Transformation-Toolkit">Text Transformation Toolkit</a></li>
+    </ul>
 </div>
 
