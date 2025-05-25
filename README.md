@@ -1,9 +1,4 @@
-<style>
-.info
-{
-font-size:15px
-}
-</style>
+
 <h1> Programing Fundamentals with Python - May 2025</h1>
 <div class="info">
     SoftUni Exercises and Labs 
