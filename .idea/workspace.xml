@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dff4ab-302f-4916-ab64-3c04dbf00cfe" name="Changes" comment="Add exercises">
+      <change afterPath="$PROJECT_DIR$/01_Basic_Syntax_Conditional_Statements_and_Loops_Lab/01_number_definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_More_Exercises/01_find_the_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text_Toolkit/text_toolkit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.01_Jenny's_secret_code.executor": "Run",
+    "Python.01_find_the_largest.executor": "Run",
+    "Python.01_number_definer.executor": "Run",
     "Python.02_drink_something.executor": "Run",
     "Python.03_chat_codes.executor": "Run",
     "Python.04_maximum_multiple.executor": "Run",
@@ -49,6 +53,7 @@
     "Python.10_mutate_strings.executor": "Run",
     "Python.11_easter_bread.executor": "Run",
     "Python.12_christmas_spirit.executor": "Run",
+    "Python.text_toolkit.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
