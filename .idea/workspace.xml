@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dff4ab-302f-4916-ab64-3c04dbf00cfe" name="Changes" comment="Add exercises">
-      <change afterPath="$PROJECT_DIR$/01_Basic_Syntax_Conditional_Statements_and_Loops_Lab/01_number_definer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_More_Exercises/01_find_the_largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Text_Toolkit/text_toolkit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/01_black_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list_2v.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/03_memory_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/03_memory_game_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition_2/01_bonus_scoring_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition_2/02_mu_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition_2/03_man_o_war.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programing_Fundamentals_May_2025.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programing_Fundamentals_May_2025.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_More_Exercises/01_find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_More_Exercises/01_find_the_largest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -36,28 +46,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.01_Jenny's_secret_code.executor": "Run",
-    "Python.01_find_the_largest.executor": "Run",
-    "Python.01_number_definer.executor": "Run",
-    "Python.02_drink_something.executor": "Run",
-    "Python.03_chat_codes.executor": "Run",
-    "Python.04_maximum_multiple.executor": "Run",
-    "Python.05_orders.executor": "Run",
-    "Python.06_string_pureness.executor": "Run",
-    "Python.07_double_char.executor": "Run",
-    "Python.08_how_much_coffee_do_you_need.executor": "Run",
-    "Python.09_sorting_hat.executor": "Run",
-    "Python.10_mutate_strings.executor": "Run",
-    "Python.11_easter_bread.executor": "Run",
-    "Python.12_christmas_spirit.executor": "Run",
-    "Python.text_toolkit.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.01_Jenny's_secret_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_bonus_scoring_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_find_the_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_number_definer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_drink_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_mu_online.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_shopping_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_shopping_list_2v.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.03_chat_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_memory_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_memory_game_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_maximum_multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_orders.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_string_pureness.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_double_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_how_much_coffee_do_you_need.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_sorting_hat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_mutate_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_easter_bread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_christmas_spirit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_toolkit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programs/Other/Projects_School_and_Home/Osmanska_imperiq/quiz.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="06_string_pureness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programing_Fundamentals_May_2025" />
@@ -118,5 +137,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Add exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list_2v.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
