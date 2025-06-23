@@ -8,6 +8,7 @@
     <ul>
         <li>Language Comparison</li>
         <li>Basic Syntax, Conditional Statements and Loops</li>
+        <li>HTTP Basics</li>
         <li>Data Types and Variables</li>
         <li>List Basics</li>
         <li>HTML & CSS Basics</li>
