@@ -5,20 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dff4ab-302f-4916-ab64-3c04dbf00cfe" name="Changes" comment="Add exercises">
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/01_comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/02_party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/03_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/04_zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/05_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,50 +34,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.01_Jenny's_secret_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_bonus_scoring_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_comment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_find_the_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_number_definer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_drink_something.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_mu_online.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_party.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_shopping_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_shopping_list_2v.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.03_chat_codes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_email.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_man_o_war.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_memory_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_memory_game_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_maximum_multiple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_orders.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_string_pureness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_double_char.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_how_much_coffee_do_you_need.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09_sorting_hat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10_mutate_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_easter_bread.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12_christmas_spirit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.text_toolkit.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programs/SoftUni/Programing_Fundamentals_May_2025/13_objects_and_classes&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.01_Jenny's_secret_code.executor": "Run",
+    "Python.01_bonus_scoring_system.executor": "Run",
+    "Python.01_comment.executor": "Run",
+    "Python.01_find_the_largest.executor": "Run",
+    "Python.01_number_definer.executor": "Run",
+    "Python.02_drink_something.executor": "Run",
+    "Python.02_mu_online.executor": "Run",
+    "Python.02_party.executor": "Run",
+    "Python.02_shopping_list.executor": "Run",
+    "Python.02_shopping_list_2v.executor": "Debug",
+    "Python.03_chat_codes.executor": "Run",
+    "Python.03_email.executor": "Run",
+    "Python.03_man_o_war.executor": "Run",
+    "Python.03_memory_game.executor": "Run",
+    "Python.03_memory_game_v2.executor": "Run",
+    "Python.04_maximum_multiple.executor": "Run",
+    "Python.04_zoo.executor": "Run",
+    "Python.05_circle.executor": "Run",
+    "Python.05_orders.executor": "Run",
+    "Python.06_string_pureness.executor": "Run",
+    "Python.07_double_char.executor": "Run",
+    "Python.08_how_much_coffee_do_you_need.executor": "Run",
+    "Python.09_sorting_hat.executor": "Run",
+    "Python.10_mutate_strings.executor": "Run",
+    "Python.11_easter_bread.executor": "Run",
+    "Python.12_christmas_spirit.executor": "Run",
+    "Python.example2.executor": "Run",
+    "Python.example4.executor": "Run",
+    "Python.example5.executor": "Run",
+    "Python.example7.executor": "Run",
+    "Python.example8.executor": "Run",
+    "Python.example_6.executor": "Run",
+    "Python.quiz.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.text_toolkit.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging main",
+    "last_opened_file_path": "D:/Programs/SoftUni/Programing_Fundamentals_May_2025/13_objects_and_classes",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes" />
@@ -198,11 +184,6 @@
           <url>file://$PROJECT_DIR$/11_Mid_Exam_Preparation/02_shopping_list_2v.py</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/13_objects_and_classes/04_zoo.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
