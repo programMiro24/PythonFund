@@ -5,19 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dff4ab-302f-4916-ab64-3c04dbf00cfe" name="Changes" comment="Add exercises">
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/01_black_flag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list_2v.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/03_memory_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition/03_memory_game_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition_2/01_bonus_scoring_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition_2/02_mu_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_Exam_Preparition_2/03_man_o_war.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programing_Fundamentals_May_2025.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programing_Fundamentals_May_2025.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/01_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/02_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/03_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/04_zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/05_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_objects_and_classes/examples/example8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_More_Exercises/01_find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_More_Exercises/01_find_the_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +53,22 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.01_Jenny's_secret_code.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_bonus_scoring_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_comment.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_find_the_largest.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_number_definer.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_drink_something.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_mu_online.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_party.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_shopping_list.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_shopping_list_2v.executor&quot;: &quot;Debug&quot;,
     &quot;Python.03_chat_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_man_o_war.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_memory_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_memory_game_v2.executor&quot;: &quot;Run&quot;,
     &quot;Python.04_maximum_multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_circle.executor&quot;: &quot;Run&quot;,
     &quot;Python.05_orders.executor&quot;: &quot;Run&quot;,
     &quot;Python.06_string_pureness.executor&quot;: &quot;Run&quot;,
     &quot;Python.07_double_char.executor&quot;: &quot;Run&quot;,
@@ -69,14 +77,31 @@
     &quot;Python.10_mutate_strings.executor&quot;: &quot;Run&quot;,
     &quot;Python.11_easter_bread.executor&quot;: &quot;Run&quot;,
     &quot;Python.12_christmas_spirit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_6.executor&quot;: &quot;Run&quot;,
     &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.text_toolkit.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programs/Other/Projects_School_and_Home/Osmanska_imperiq/quiz.py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programs/SoftUni/Programing_Fundamentals_May_2025/13_objects_and_classes&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes\examples" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\Projects" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\02_Basic_Syntax_Conditional_Statements_and_Loops_Exercise" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="06_string_pureness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programing_Fundamentals_May_2025" />
@@ -100,8 +125,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="example4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programing_Fundamentals_May_2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_objects_and_classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes\examples\example4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example4" />
         <item itemvalue="Python.06_string_pureness" />
       </list>
     </recent_temporary>
@@ -142,14 +190,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list.py</url>
+          <url>file://$PROJECT_DIR$/11_Mid_Exam_Preparation/02_shopping_list.py</url>
           <line>39</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mid_Exam_Preparition/02_shopping_list_2v.py</url>
+          <url>file://$PROJECT_DIR$/11_Mid_Exam_Preparation/02_shopping_list_2v.py</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/13_objects_and_classes/04_zoo.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
