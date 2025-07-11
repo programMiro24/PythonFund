@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dff4ab-302f-4916-ab64-3c04dbf00cfe" name="Changes" comment="Add exercises">
-      <change beforePath="$PROJECT_DIR$/Projects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/01_storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/02_weapon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/03_catalogue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Dictionaries_Lab/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Dictionaries_Lab/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Dictionaries_Lab/example_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Dictionaries_Exercise/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,64 +28,101 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;programMiro24&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/programMiro24/PythonFund&quot;,
+    &quot;accountId&quot;: &quot;7b0ab65a-548b-444e-a920-b7f679246d6a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2xXyWziwW0wK75KEH6R5jngHH1m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.01_Jenny's_secret_code.executor": "Run",
-    "Python.01_bonus_scoring_system.executor": "Run",
-    "Python.01_comment.executor": "Run",
-    "Python.01_find_the_largest.executor": "Run",
-    "Python.01_number_definer.executor": "Run",
-    "Python.02_drink_something.executor": "Run",
-    "Python.02_mu_online.executor": "Run",
-    "Python.02_party.executor": "Run",
-    "Python.02_shopping_list.executor": "Run",
-    "Python.02_shopping_list_2v.executor": "Debug",
-    "Python.03_chat_codes.executor": "Run",
-    "Python.03_email.executor": "Run",
-    "Python.03_man_o_war.executor": "Run",
-    "Python.03_memory_game.executor": "Run",
-    "Python.03_memory_game_v2.executor": "Run",
-    "Python.04_maximum_multiple.executor": "Run",
-    "Python.04_zoo.executor": "Run",
-    "Python.05_circle.executor": "Run",
-    "Python.05_orders.executor": "Run",
-    "Python.06_string_pureness.executor": "Run",
-    "Python.07_double_char.executor": "Run",
-    "Python.08_how_much_coffee_do_you_need.executor": "Run",
-    "Python.09_sorting_hat.executor": "Run",
-    "Python.10_mutate_strings.executor": "Run",
-    "Python.11_easter_bread.executor": "Run",
-    "Python.12_christmas_spirit.executor": "Run",
-    "Python.example2.executor": "Run",
-    "Python.example4.executor": "Run",
-    "Python.example5.executor": "Run",
-    "Python.example7.executor": "Run",
-    "Python.example8.executor": "Run",
-    "Python.example_6.executor": "Run",
-    "Python.quiz.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.text_toolkit.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
-    "last_opened_file_path": "D:/Programs/SoftUni/Programing_Fundamentals_May_2025/13_objects_and_classes",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.01_Jenny's_secret_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_bonus_scoring_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_find_the_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_number_definer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_storage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_drink_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_mu_online.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_party.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_shopping_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_shopping_list_2v.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.02_weapon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_catalogue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_chat_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_man_o_war.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_memory_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_memory_game_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_maximum_multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_orders.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_string_pureness.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_double_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_how_much_coffee_do_you_need.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_sorting_hat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_mutate_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_easter_bread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_christmas_spirit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.space_invaders2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_toolkit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programs/PythonGames&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes" />
@@ -88,7 +133,7 @@
       <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\02_Basic_Syntax_Conditional_Statements_and_Loops_Exercise" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.06_string_pureness">
     <configuration name="06_string_pureness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programing_Fundamentals_May_2025" />
       <option name="ENV_FILES" value="" />
@@ -102,6 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_Exercise/06_string_pureness.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -124,6 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes\examples\example4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -143,7 +190,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -155,6 +203,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748098749315</updated>
+      <workItem from="1751481285797" duration="994000" />
+      <workItem from="1751643116347" duration="1262000" />
+      <workItem from="1751815959997" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Add exercises">
       <option name="closed" value="true" />
@@ -164,8 +215,19 @@
       <option name="project" value="LOCAL" />
       <updated>1748175187052</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add exercises">
+      <option name="closed" value="true" />
+      <created>1750878625719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750878625719</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -187,5 +249,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example.coverage" NAME="example Coverage Results" MODIFIED="1751643750861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_Dictionaries_Exercise" />
   </component>
 </project>
