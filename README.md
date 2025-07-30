@@ -24,6 +24,7 @@
         <li>Regular Expressions</li>
         <li>Database Basics</li>
         <li>QA Introduction</li>
+        <li>Basic Web Project (Django)</li>
     </ul>
 </div>
 <h2>Projects</h2>
