@@ -1,8 +1,0 @@
-Regex
-r"\d"
-string = "my number are 1234"
-Result:
-1
-2
-3
-4
