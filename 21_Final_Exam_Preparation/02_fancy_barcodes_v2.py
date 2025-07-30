@@ -5,8 +5,9 @@ for barcode_number in range(n):
     barcode = input()
     match = re.match(barcode_pattern, barcode)
     if match:
-        core = match.group(1)
-        product_group = ''.join(filter(str.isdigit, core)) or '00'
-        print(f"Product group: {product_group}")
+        product_group = re.findall(r'\d', barcode)
+        if not product_group:
+            product_group = '00'
+        print(f"Product group: {''.join(product_group)}")
     else:
         print(f"Invalid barcode")

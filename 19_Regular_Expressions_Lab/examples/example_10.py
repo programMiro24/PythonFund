@@ -1,7 +1,4 @@
 import re
-
-example_text = "Hello world "
-
-parts = re.split(" ", example_text)
-
-print(parts)
+text = 'Hello World'
+result = re.findall(r'hello', text, re.IGNORECASE)
+print(result)

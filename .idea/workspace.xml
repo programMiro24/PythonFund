@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4dff4ab-302f-4916-ab64-3c04dbf00cfe" name="Changes" comment="Add exercises">
-      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/01_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/02_weapon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/03_catalogue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Objects_and_Classes_Exercise/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Dictionaries_Lab/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Dictionaries_Lab/example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Dictionaries_Lab/example_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Dictionaries_Exercise/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_Basic_Web_Project/djangoproject/djangoproject/phonebook/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_Basic_Web_Project/djangoproject/djangoproject/phonebook/migrations/0002_alter_contact_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Regular_Expressions_Lab/01_match_full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Regular_Expressions_Lab/01_match_full_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Regular_Expressions_Lab/02_match_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Regular_Expressions_Lab/02_match_phone_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Regular_Expressions_Lab/03_match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Regular_Expressions_Lab/03_match_dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Regular_Expressions_Lab/04_match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Regular_Expressions_Lab/04_match_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Regular_Expressions_Lab/examples/example_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Regular_Expressions_Lab/examples/example_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Regular_Expressions_Lab/examples/example_8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Regular_Expressions_Lab/examples/example_8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Regular_Expressions_Lab/syntax.txt" beforeDir="false" afterPath="$PROJECT_DIR$/19_Regular_Expressions_Lab/syntax.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Final_Exam_Preparation/01_the_imitation_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Final_Exam_Preparation/01_the_imitation_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Final_Exam_Preparation/02_fancy_barcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Final_Exam_Preparation/02_fancy_barcodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Final_Exam_Preparation/02_fancy_barcodes_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Final_Exam_Preparation/02_fancy_barcodes_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Final_Exam_Preparation/03_need_for_speed_III.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Final_Exam_Preparation/03_need_for_speed_III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Final_Exam_Preparation/03_need_for_speed_III_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Final_Exam_Preparation/03_need_for_speed_III_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Final_Exam_Preparation/03_need_for_speed_III_v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Final_Exam_Preparation/03_need_for_speed_III_v3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Final_Exam_Preparation/01_world_tour.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_Final_Exam_Preparation/01_world_tour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Final_Exam_Preparation/02_ad_astra.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_Final_Exam_Preparation/02_ad_astra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Final_Exam_Preparation/03_p!rates.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_Final_Exam_Preparation/03_p!rates.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Stub" />
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -72,9 +83,19 @@
     &quot;Python.01_bonus_scoring_system.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_comment.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_find_the_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_match_full_name.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_number_definer.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_storage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_the_imitation_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_valid_username.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_world_tour.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_ad_astra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_character_multiplier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_character_multiplier_v2.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_drink_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_fancy_barcodes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_fancy_barcodes_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_match_phone_number.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_mu_online.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_party.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_shopping_list.executor&quot;: &quot;Run&quot;,
@@ -83,18 +104,30 @@
     &quot;Python.03_catalogue.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_chat_codes.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_extract_file.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_man_o_war.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_match_dates.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_memory_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_memory_game_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_need_for_speed_III.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_p!rates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_caesar_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_match_numbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.04_maximum_multiple.executor&quot;: &quot;Run&quot;,
     &quot;Python.04_zoo.executor&quot;: &quot;Run&quot;,
     &quot;Python.05_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_emoticon_finder.executor&quot;: &quot;Run&quot;,
     &quot;Python.05_orders.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_replace_repeating_chars.executor&quot;: &quot;Run&quot;,
     &quot;Python.06_string_pureness.executor&quot;: &quot;Run&quot;,
     &quot;Python.07_double_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_string_explosion.executor&quot;: &quot;Run&quot;,
     &quot;Python.08_how_much_coffee_do_you_need.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_letters_change_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_rage_quit.executor&quot;: &quot;Run&quot;,
     &quot;Python.09_sorting_hat.executor&quot;: &quot;Run&quot;,
     &quot;Python.10_mutate_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_winning_ticket.executor&quot;: &quot;Run&quot;,
     &quot;Python.11_easter_bread.executor&quot;: &quot;Run&quot;,
     &quot;Python.12_christmas_spirit.executor&quot;: &quot;Run&quot;,
     &quot;Python.example.executor&quot;: &quot;Run&quot;,
@@ -104,8 +137,17 @@
     &quot;Python.example5.executor&quot;: &quot;Run&quot;,
     &quot;Python.example7.executor&quot;: &quot;Run&quot;,
     &quot;Python.example8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_5.executor&quot;: &quot;Run&quot;,
     &quot;Python.example_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_8.executor&quot;: &quot;Run&quot;,
     &quot;Python.example_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_all_words.executor&quot;: &quot;Run&quot;,
     &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
     &quot;Python.space_invaders2.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
@@ -113,7 +155,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programs/PythonGames&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programs/SoftUni/Programing_Fundamentals_May_2025&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -125,12 +167,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\21_Final_Exam_Preparation" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\19_Regular_Expressions_Lab\examples" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\19_Regular_Expressions_Lab" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\18_Text_Processing_Exercise" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\19_Regular_Expressions_Lab\example_matches" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\19_Regular_Expressions_Lab\examples" />
+      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025" />
       <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\13_objects_and_classes\examples" />
       <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\Projects" />
-      <recent name="D:\Programs\SoftUni\Programing_Fundamentals_May_2025\02_Basic_Syntax_Conditional_Statements_and_Loops_Exercise" />
     </key>
   </component>
   <component name="RunManager" selected="Python.06_string_pureness">
@@ -182,8 +230,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.example4" />
         <item itemvalue="Python.06_string_pureness" />
+        <item itemvalue="Python.example4" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +254,15 @@
       <workItem from="1751481285797" duration="994000" />
       <workItem from="1751643116347" duration="1262000" />
       <workItem from="1751815959997" duration="8000" />
+      <workItem from="1752921830641" duration="4516000" />
+      <workItem from="1753114354708" duration="594000" />
+      <workItem from="1753198401645" duration="16062000" />
+      <workItem from="1753457584986" duration="5941000" />
+      <workItem from="1753464108376" duration="40000" />
+      <workItem from="1753466324282" duration="1312000" />
+      <workItem from="1753555768711" duration="672000" />
+      <workItem from="1753890076927" duration="89000" />
+      <workItem from="1753898014425" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="Add exercises">
       <option name="closed" value="true" />
@@ -251,6 +308,28 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_6.coverage" NAME="example_6 Coverage Results" MODIFIED="1753206903156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$03_match_dates.coverage" NAME="03_match_dates Coverage Results" MODIFIED="1753213631317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$01_world_tour.coverage" NAME="01_world_tour Coverage Results" MODIFIED="1753458998833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_Final_Exam_Preparation" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_3.coverage" NAME="example_3 Coverage Results" MODIFIED="1752922769570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$02_match_phone_number.coverage" NAME="02_match_phone_number Coverage Results" MODIFIED="1753212678775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$01_match_full_name.coverage" NAME="01_match_full_name Coverage Results" MODIFIED="1753212335259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_5.coverage" NAME="example_5 Coverage Results" MODIFIED="1752932299709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$06_string_pureness.coverage" NAME="06_string_pureness Coverage Results" MODIFIED="1753458995546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Basic_Syntax_Conditional_Statements_and_Loops_Exercise" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$01_the_imitation_code.coverage" NAME="01_the_imitation_code Coverage Results" MODIFIED="1753286218763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/21_Final_Exam_Preparation" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$03_p_rates.coverage" NAME="03_p!rates Coverage Results" MODIFIED="1753463542275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_Final_Exam_Preparation" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_2.coverage" NAME="example_2 Coverage Results" MODIFIED="1752922367395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$match_all_words.coverage" NAME="match_all_words Coverage Results" MODIFIED="1753209584819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_7.coverage" NAME="example_7 Coverage Results" MODIFIED="1753210977740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$02_ad_astra.coverage" NAME="02_ad_astra Coverage Results" MODIFIED="1753461050193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_Final_Exam_Preparation" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1752922139825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$04_match_numbers.coverage" NAME="04_match_numbers Coverage Results" MODIFIED="1753285386183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$02_fancy_barcodes_v2.coverage" NAME="02_fancy_barcodes_v2 Coverage Results" MODIFIED="1753287659495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/21_Final_Exam_Preparation" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_8.coverage" NAME="example_8 Coverage Results" MODIFIED="1753211662813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$02_fancy_barcodes.coverage" NAME="02_fancy_barcodes Coverage Results" MODIFIED="1753287395245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/21_Final_Exam_Preparation" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_4.coverage" NAME="example_4 Coverage Results" MODIFIED="1752931173499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example_10.coverage" NAME="example_10 Coverage Results" MODIFIED="1753213904214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_Regular_Expressions_Lab/examples" />
     <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$example.coverage" NAME="example Coverage Results" MODIFIED="1751643750861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_Dictionaries_Exercise" />
+    <SUITE FILE_PATH="coverage/Programing_Fundamentals_May_2025$03_need_for_speed_III.coverage" NAME="03_need_for_speed_III Coverage Results" MODIFIED="1753291807164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/21_Final_Exam_Preparation" />
   </component>
 </project>
